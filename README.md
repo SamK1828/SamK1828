@@ -43,9 +43,9 @@
   <img src="https://img.shields.io/badge/50_Days_Challenge_2023-Badge-blueviolet?style=for-the-badge&logo=leetcode" alt="50 Days Badge" />
 </p>
 
-### 🍜 CodeChef Stats  ![CodeChef](https://cp-logo.vercel.app/codechef/code_sam1828)
+### 🍜 CodeChef Stats  
+[![CodeChef Badge](https://cp-logo.vercel.app/codechef/code_sam1828?logo=true)](https://www.codechef.com/users/code_sam1828)
 
-#### 🔸 Naukri.com Coding Stats
 ---
 
 ## 🧰 Languages and Tools
