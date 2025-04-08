@@ -46,6 +46,8 @@
 ### 🍜 CodeChef Stats  
 [![CodeChef Badge](https://cp-logo.vercel.app/codechef/code_sam1828?logo=true)](https://www.codechef.com/users/code_sam1828)
 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile)
+
 ---
 
 ## 🧰 Languages and Tools
