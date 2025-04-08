@@ -46,7 +46,12 @@
 ### 🍜 CodeChef Stats  
 [![CodeChef Badge](https://cp-logo.vercel.app/codechef/code_sam1828?logo=true)](https://www.codechef.com/users/code_sam1828)
 
+### 👨‍💻 GeeksforGeeks Activity
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile)
+
+### Code Studio Activity
+[![Naukri Problem Solving](https://img.shields.io/badge/Naukri-Problem%20Solving%20Stats-0080FF?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/SDKSamarth/profile)
+
 
 ---
 
@@ -86,9 +91,14 @@
   </a> -->
   <a href="https://linkedin.com/in/samarth-kalegaonkar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    
   </a>
   <a href="https://leetcode.com/SDKSamarth117" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" height="30" width="50" />
   </a>
 </p>
 
