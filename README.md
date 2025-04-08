@@ -50,7 +50,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile)
 
 ### Code Studio Activity
-[![Naukri Problem Solving](https://img.shields.io/badge/Naukri-Problem%20Solving%20Stats-0080FF?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/SDKSamarth/profile)
+[![Naukri Problem Solving](https://img.shields.io/badge/Naukri-Problem%20Solving%20Stats-0080FF?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/SDKSamarth)
 
 
 ---
