@@ -78,7 +78,7 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
+<p>
 <!--   <a href="https://dev.to/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
   </a> -->
@@ -105,13 +105,6 @@ Thanks for visiting! ⭐
 May your code be bug-free 🐞
 and your coffee stay hot ☕
 ```
-
----
-
-Let me know if you'd like:
-- Project cards
-- A live blog section
-- Custom animations or banners I got you covered 💪
 
 ---
 
