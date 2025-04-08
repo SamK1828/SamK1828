@@ -7,11 +7,29 @@
   <img src="https://komarev.com/ghpvc/?username=SamK1828&label=Profile%20views&color=0e75b6&style=flat" alt="Samarth Deelip Kalegaonkar" />
 </p>
 
-- 🔭 I’m currently working on **My career...😉**  
-- 🌱 I’m currently learning **Full Stack Java Development**  
-- 💬 Ask me about **HTML, Core Java and Nothing..🤐**  
-- 📫 Reach me at **kalegaonkarsamarth@gmail.com**  
-- ⚡ Fun fact: **It’s all 0’s and 1’s**
+🧭 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
+
+---
+
+### 🛠️ Tech Stack I Play With
+```diff
++ Java, Spring Boot, MySQL, MongoDB
++ HTML, CSS, JavaScript, Node.js
++ Git, GitHub, Linux, Eclipse, VSCode
++ APIs, JSON, RESTful Services
+```
+
+---
+
+### 🧠 Current Mission
+```yaml
+  role: Software Developer
+  learning: Full Stack Java 🚀
+  sideQuests:
+    - Building real-world projects
+    - Leveling up on LeetCode & CodeChef
+    - Improving problem-solving skills 🧩
+```
 
 ---
 
@@ -34,16 +52,11 @@
 
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -53,15 +66,13 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamK1828&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamK1828&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamK1828&layout=compact&theme=radical" alt="Top Languages"/>
+  &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamK1828&" alt="GitHub Streak" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamK1828&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamK1828&" alt="GitHub Streak" /></p>
 
 ---
 
@@ -81,4 +92,27 @@
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my projects and drop a message if you'd like to collaborate.*  
+### 🧠 Fun Fact
+
+> 👽 *“I'm not a great programmer; I'm just a good programmer with great habits.”* – Kent Beck
+
+---
+
+### 🌌 Signature Footer
+
+```
+Thanks for visiting! ⭐
+May your code be bug-free 🐞
+and your coffee stay hot ☕
+```
+
+---
+
+Let me know if you'd like:
+- Project cards
+- A live blog section
+- Custom animations or banners I got you covered 💪
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my projects and drop a message if you'd like to collaborate.*
