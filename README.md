@@ -12,9 +12,9 @@
 
 ### 🛠️ Tech Stack I Play With
 ```diff
-+ Java, Spring Boot, MySQL, MongoDB
++ Java, Spring Boot, MySQL, MongoDB, JDBC
 + HTML, CSS, JavaScript, Node.js
-+ Git, GitHub, Linux, Eclipse, VSCode
++ Git, GitHub, Eclipse, VSCode
 + APIs, JSON, RESTful Services
 ```
 
@@ -28,6 +28,7 @@
     - Building real-world projects
     - Leveling up on LeetCode & CodeChef
     - Improving problem-solving skills 🧩
+    - Team Collaboration & Management
 ```
 
 ---
