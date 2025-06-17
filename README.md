@@ -28,7 +28,7 @@
     - Building real-world projects
     - Leveling up on LeetCode & CodeChef
     - Improving problem-solving skills 🧩
-    - Team Collaboration & Management
+    - Team Collaboration & Task Management
 ```
 
 ---
