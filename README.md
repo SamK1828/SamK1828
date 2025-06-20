@@ -82,7 +82,13 @@
 </p>
 
 ---
+### 📈 Repository Activity Graph:
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamK1828&theme=dracula&bg_color=0d1117&color=90eebf&line=90eebf&point=90eebf&hide_border=true"/>
+</div>
+
+---
 ## 📫 Connect with Me
 
 <p>
