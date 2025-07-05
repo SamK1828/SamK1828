@@ -23,7 +23,7 @@
 ### 🧠 Current Mission
 ```yaml
   role: Software Developer
-  learning: Full Stack Java 🚀
+  learning: Full Stack Java Developmenr🚀
   sideQuests:
     - Building real-world projects
     - Leveling up on LeetCode & CodeChef
