@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamK1828&layout=compact&theme=radical" alt="Top Languages"/>
   &nbsp;
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamK1828&" alt="GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com/?user=SamK1828&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" height="200" width="420"/>
+  <img src="https://streak-stats.demolab.com/?user=SamK1828&stroke=90eebf&ring=90eebf&fire=90eebf&theme=radical&currStreakLabel=90eebf" height="200" width="420"/>
 </p>
 
 ---
