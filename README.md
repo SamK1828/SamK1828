@@ -76,11 +76,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamK1828&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamK1828&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamK1828&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamK1828&layout=compact&theme=dark" alt="Top Languages"/>
   &nbsp;
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamK1828&" alt="GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com/?user=SamK1828&stroke=90eebf&ring=90eebf&fire=90eebf&theme=radical&currStreakLabel=90eebf" height="200" width="420"/>
+  <img src="https://streak-stats.demolab.com/?user=SamK1828&stroke=90eebf&ring=90eebf&fire=90eebf&theme=dark&currStreakLabel=90eebf" height="200" width="420"/>
 </p>
 
 ---
