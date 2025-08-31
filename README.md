@@ -36,7 +36,7 @@
 ## 🚀 Coding Achievements
 
 ### 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SDKSamarth117?theme=dark&font=Roboto)](https://leetcode.com/surajthorat22)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SDKSamarth117?theme=dark&font=Roboto)](https://leetcode.com/SDKSamarth117)
 
 ### 🏅 Badges Earned
 <p align="left">
