@@ -94,8 +94,8 @@
 ## 📫 Connect with Me
 
 <p>
-<!--   <a href="https://dev.to/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
+<!--<a href="https://dev.to/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/SamK1828/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
   </a> -->
   <a href="https://linkedin.com/in/samarth-kalegaonkar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
