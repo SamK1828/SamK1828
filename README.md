@@ -65,23 +65,23 @@
 [![Naukri Problem Solving](https://img.shields.io/badge/Naukri-Problem%20Solving%20Stats-0080FF?style=flat-square\&logo=naukri\&logoColor=white)](https://www.naukri.com/code360/profile/SDKSamarth)
 
 ---
+## 🧰 Languages and Tools
 
-## 🚀 Tech Stack
 <p align="center">
-  
-### 🎨 Frontend  
-![Frontend](https://skillicons.dev/icons?i=react,html,css,javascript,tailwind)
-
-### ⚙️ Backend  
-![Backend](https://skillicons.dev/icons?i=java,spring,hibernate)
-
-### 🗄️ Database  
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
-
-### 🔧 Tools & Version Control  
-![Tools](https://skillicons.dev/icons?i=git,github)
-
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
 </p>
+
 
 ---
 
