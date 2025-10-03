@@ -142,7 +142,7 @@ sideQuests:
 > 👽 *“I'm not a great programmer; I'm just a good programmer with great habits.”* – Kent Beck
 
 ---
-
+<!--
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -150,6 +150,7 @@ sideQuests:
 </p>
 
 ---
+-->
 
 ### 🌌 Signature Footer
 
