@@ -12,6 +12,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing Intro"/>
+  </a>
+</p>
+
 > 🧭 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
 ---
@@ -29,13 +35,13 @@
 ### 🧠 Current Mission
 
 ```yaml
-  role: Software Developer
-  learning: Full Stack Java Development 🚀
-  sideQuests:
-    - Building real-world projects
-    - Leveling up on LeetCode & CodeChef
-    - Improving problem-solving skills 🧩
-    - Team Collaboration & Task Management
+role: Software Developer
+learning: Full Stack Java Development 🚀
+sideQuests:
+  - Building real-world projects
+  - Leveling up on LeetCode & CodeChef
+  - Improving problem-solving skills 🧩
+  - Team Collaboration & Task Management
 ```
 
 ---
@@ -60,28 +66,19 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile)
 
-### Code Studio Activity
+### 🧑‍💻 Code Studio Activity
 
 [![Naukri Problem Solving](https://img.shields.io/badge/Naukri-Problem%20Solving%20Stats-0080FF?style=flat-square\&logo=naukri\&logoColor=white)](https://www.naukri.com/code360/profile/SDKSamarth)
 
 ---
+
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,nodejs,bootstrap,angular,git,python&perline=6" />
+  </a>
 </p>
-
 
 ---
 
@@ -110,7 +107,20 @@
 </p>
 
 ---
+<!--
+## 📌 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/SamK1828/Smart-Contact-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Smart-Contact-Manager&theme=dark" />
+  </a>
+  <a href="https://github.com/SamK1828/PhonebookWebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=PhonebookWebApp&theme=dark" />
+  </a>
+</p>
+
+---
+-->
 ## 📫 Connect with Me
 
 <p align="center">
@@ -133,14 +143,19 @@
 
 ---
 
-### 🌌 Signature Footer
+### 🐍 Contribution Snake
 
-```
-Thanks for visiting! ⭐
-May your code be bug-free 🐞
-and your coffee stay hot ☕
-```
+<p align="center">
+  <img src="https://github.com/SamK1828/SamK1828/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and drop a message if you'd like to collaborate!*
+### 🌌 Signature Footer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+  <br>⭐ Thanks for visiting my profile ⭐  
+  <i>May your code be clean, your bugs be shallow, and your coffee strong ☕</i>
+</p>
+```
