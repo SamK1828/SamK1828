@@ -4,19 +4,24 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamK1828&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
   <a href="https://github.com/SamK1828?tab=followers">
     <img src="https://img.shields.io/github/followers/SamK1828?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
   </a>
+  
   <a href="https://github.com/SamK1828?tab=repositories">
     <img src="https://img.shields.io/github/stars/SamK1828?affiliations=OWNER&style=flat&color=yellow" alt="GitHub Stars"/>
   </a>
+  
 </p>
-
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing Intro"/>
   </a>
 </p>
+-->
+<br/>
 
 > 🧭 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
