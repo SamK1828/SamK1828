@@ -81,7 +81,7 @@ sideQuests:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,nodejs,bootstrap,angular,git,python&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,html,css,js,react,tailwind,bootstrap,vscode,eclipse,pycharm,github,git," />
   </a>
 </p>
 
