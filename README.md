@@ -129,7 +129,7 @@ sideQuests:
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/samarth-kalegaonkar" target="blank">
+  <a href="https://linkedin.com/in/samarth-kalegaonkar" target="blank" alt="text">
     <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Kalegaonkar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/SDKSamarth117" target="blank">
