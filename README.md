@@ -147,15 +147,13 @@ sideQuests:
 > 👽 *“I'm not a great programmer; I'm just a good programmer with great habits.”* – Kent Beck
 
 ---
-<!--
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SamK1828/SamK1828/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
--->
 
 ### 🌌 Signature Footer
 <p align="center">
