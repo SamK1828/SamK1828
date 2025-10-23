@@ -129,13 +129,13 @@ sideQuests:
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/samarth-kalegaonkar" target="blank" alt="text">
+  <a href="https://linkedin.com/in/samarth-kalegaonkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Kalegaonkar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/SDKSamarth117" target="blank">
+  <a href="https://leetcode.com/SDKSamarth117" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
 </p>
