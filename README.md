@@ -112,24 +112,25 @@ sideQuests:
 </p>
 
 ---
-<!--
+
 ## 📌 Featured Projects
 
 <p align="center">
+  <!--
   <a href="https://github.com/SamK1828/Smart-Contact-Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Smart-Contact-Manager&theme=dark" />
-  </a>
+  </a>-->
   <a href="https://github.com/SamK1828/PhonebookWebApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=PhonebookWebApp&theme=dark" />
   </a>
 </p>
 
 ---
--->
+
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/samarth-kalegaonkar" target= "_blank">
+  <a href="https://linkedin.com/in/samarth-deelip-kalegaonkar" target= "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Kalegaonkar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/SDKSamarth117" target= "_blank">
