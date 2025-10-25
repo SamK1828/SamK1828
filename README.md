@@ -116,10 +116,11 @@ sideQuests:
 ## 📌 Featured Projects
 
 <p align="center">
-  <!--
-  <a href="https://github.com/SamK1828/Smart-Contact-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Smart-Contact-Manager&theme=dark" />
-  </a>-->
+  
+  <a href="https://github.com/SamK1828/React-SpringBoot-Student-Manager.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=React-SpringBoot-Student-Manager&theme=dark" />
+  </a>
+  
   <a href="https://github.com/SamK1828/PhoneBookWebApplication.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=PhonebookWebApplication&theme=dark" />
   </a>
