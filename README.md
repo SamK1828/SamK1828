@@ -120,8 +120,8 @@ sideQuests:
   <a href="https://github.com/SamK1828/Smart-Contact-Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Smart-Contact-Manager&theme=dark" />
   </a>-->
-  <a href="https://github.com/SamK1828/PhonebookWebApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=PhonebookWebApp&theme=dark" />
+  <a href="https://github.com/SamK1828/PhoneBookWebApplication.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=PhonebookWebApplication&theme=dark" />
   </a>
 </p>
 
