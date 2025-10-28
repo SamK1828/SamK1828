@@ -132,6 +132,10 @@ sideQuests:
   <a href="https://github.com/SamK1828/Facial-Recognition-Attendance-System.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Facial-Recognition-Attendance-System&theme=dark" />
   </a>
+  
+  <a href="https://github.com/SamK1828/CareAndCureApplication.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=CareAndCureApplication&theme=dark" />
+  </a>
 </p>
 
 ---
