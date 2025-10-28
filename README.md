@@ -124,6 +124,14 @@ sideQuests:
   <a href="https://github.com/SamK1828/PhoneBookWebApplication.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=PhonebookWebApplication&theme=dark" />
   </a>
+    
+  <a href="https://github.com/SamK1828/Potato-Leaf-Disease-Detection.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Potato-Leaf-Disease-Detection&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/SamK1828/Facial-Recognition-Attendance-System.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamK1828&repo=Facial-Recognition-Attendance-System&theme=dark" />
+  </a>
 </p>
 
 ---
