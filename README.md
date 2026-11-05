@@ -144,8 +144,6 @@ sideQuests:
 
 ## 📫 Connect with Me
 
-🌐 [Portfolio Website](https://samarth-deelip-kalegaonkar-portfolio.vercel.app/)
-
 <p align="center">
   <a href="https://linkedin.com/in/samarth-deelip-kalegaonkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Deelip%20Kalegaonkar-blue?style=for-the-badge&logo=linkedin"/>
@@ -155,6 +153,9 @@ sideQuests:
   </a>
   <a href="https://auth.geeksforgeeks.org/user/kalegaonkacugn/profile" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
+  <a href="https://samarth-deelip-kalegaonkar-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
